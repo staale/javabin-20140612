@@ -1,0 +1,298 @@
+wget "http://static.wixstatic.com/media/f1b544_bb085d1a4c49475ba8e40dec919d06e5.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6289.jpg"
+wget "http://static.wixstatic.com/media/f1b544_62e40d8e05c6401d87fbbe8809a3ee8c.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6299.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_1b9c0158eec24bf2a3e4515cd4069b95.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6300.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_44a63a72b0fe41dcaffa9aaf6487f87b.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6301.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_ca45db877d724c87a7f277327dcab5ed.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6309.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_782bb6c9ad3e4f66ae6ea63ea76c72b5.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6314.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_76d3a3d5b5a542ca9523b82a78fb9569.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6316.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_a13458c8705c4712b2c5a8c771716d01.jpg_srz_p_700_700_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6317.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_57848a5b76d842feabdae2e64117980f.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6322.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_56cfd86c35824205a7a7444e2caa9e9a.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6323.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_46af78e441e542a1bf7a91f33fcff087.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6324.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_6bf1b436cd2d4ceaa4262fb4e24f3355.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6326.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_2b5b2cbb6c7c4a80ac80959cd524ad75.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6332-2.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_5f0eefc6e22940f7ba33ef4503061ebe.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6332.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_8146f100948646e4a558f9887425cf52.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6334.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_a0882632e4ca4c57aa0be01c28654edb.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6335.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_294aa6cf71da44eead05453dd1b641b9.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6340.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_f8fbc65a467e4cfaa1b9a4d129e2586d.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6346.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_e0fb36e5aed34c7e8f9138b8cc008566.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6356.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_72f91c6443504b2f8c5a13de566a9936.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6357.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_a164fac85e7d4c589198e65205c3f553.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6359.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_11f3169e7d1a4c2aaef757bdc4e1ec95.jpg_srz_p_700_700_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6382.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_7dcdeaa845434a2fb73d59534b260bd2.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6405.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_8b07588732eb4bfe8db37fcc4f6d48d8.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6408.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_3c9a458e1c0f4a18ba477bdb397c54fe.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6415.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_7cb58f1f6b6f4f8191af1ea83171769b.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6417.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_82f70c62abb8443c8399d827272afd88.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6423.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_50ce1fa7e1014c0b958f8e08b9c24132.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6425.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_824ac04089ab412b93e883d502eb1e4d.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6430.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_fb0ff4fb23f94db8a5779783e9cc6de1.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6433.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_094b3ac87e8b47369e9f737209f14217.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6439.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_815951eb7e6444dfb5fec32d60a5db09.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6441.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_3e21f40fbeda43afb307be510b51288e.jpg_srz_p_467_700_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6448.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_7629124448f44c318d5c0ac7d4fb2fcd.jpg_srz_p_467_700_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6455.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_b560feb2f45147549a4d0ba877dcbf43.jpg_srz_p_467_700_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6468.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_9ca11c17f66b41f6ad98d77955f61797.jpg_srz_p_467_700_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6472.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_09ec87e4308c4a6ba94eb2654968d25d.jpg_srz_p_467_700_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6474.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_d4c09b9977d34336a81d8a038ef2f473.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6476.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_cfd25923c83e4b7a95da6ea70d5fc959.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6484.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_2f0e87c8f19646c0bd2f83ef11c69151.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6488.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_856d44f6ef844c40958f62052ddd7793.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6497.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_41f653b5d82541dda273a1ef8b419196.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6281.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_39053378e94b4558a3aad2b712608961.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6498.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_cef407f804064ccf9471836d0da82890.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6293.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_e9be2c1b62994f0dada110216ab3f91a.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6501.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_5283fb0de52c4147b3b90a7e512a2153.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6504.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_50d8d9f5f8314fc7b466101ec9af7b4b.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6514.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_8be4a94762a5410ca6d153b37f2988c0.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6524.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_da63e2b8897a4c6e855772040106b858.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6527-2.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_5a21bb19ef6e4079a6e323f32eaad37c.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6527.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_60ab07a3f92b42968bf44dca7eabb14d.jpg_srz_p_467_700_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6534.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_07be7aad78504626b1fade3635ea1328.jpg_srz_p_467_700_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6536.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_6f354d422c5549dea8e4f4d1b3c69f77.jpg_srz_p_467_700_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6546.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_b457df6ffa2e464380b89845d04ba6c7.jpg_srz_p_467_700_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6547.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_7a89404c64594d419bcc48f204eb52df.jpg_srz_p_467_700_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6551.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_be91fd874b324a17afec78c374b95bc0.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6552.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_b6c4a73e0b9942288dc44bde190b45b0.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6554.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_45380d9117014af5b6364a291b64a0d3.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6558.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_710173f7fe644c4a83f205226452b62f.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6560.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_49042933d6c54cc58ecff6deb1281223.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6566.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_714d2833d8ac4209927c7a0a7d2b3461.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6572.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_670a46fb5a394e25b353d195504dfd45.jpg_srz_p_960_540_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6579.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_a889a4a757874c54baf55c9bc51fd4ff.jpg_srz_p_960_540_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6584.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_bcfeefe92dcd4db597a47bf0008a6266.jpg_srz_p_960_540_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6588.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_359bad3ae4d54f6aae8e076fe841c70f.jpg_srz_p_960_540_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6589.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_62221c6eeffb4d59af27e7d8be46b647.jpg_srz_p_960_540_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6592-2.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_bfe4dd6b87f549fe93aa6dc0284fa299.jpg_srz_p_960_540_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6592.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_e8bb902da85b4ca68b21dd01cc5b66a4.jpg_srz_p_960_540_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6605.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_1052f97e6efa43eb97f2f35d23d7de0d.jpg_srz_p_960_540_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6619.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_ed98fc24048545cfb17a34068b47bf69.jpg_srz_p_960_540_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6620.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_c15e8aacebc7425f855c9973fdc25b19.jpg_srz_p_960_540_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6628.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_3b475e24bc804e1990c3a97daf2a0e22.jpg_srz_p_960_540_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6630.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_e7b05159daf64dac9928fe0b05f4c990.jpg_srz_p_960_540_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6637.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_b069bafa41514c6bb875795f8ba76f0e.jpg_srz_p_960_540_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6640.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_e7f135a31cd240069cbe4aa2b6a9ac4f.jpg_srz_p_960_540_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6642.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_175f1fc9226240d9b0fd50fe3c19529c.jpg_srz_p_960_540_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6643.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_a414fb3330f1427ca8612e3849c09977.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6662.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_bafbf38fe3764397a804fb988aee1855.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6674.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_347c1550b91340408ac8e72bcc5ef6fa.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6687.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_47dd1fa46fbc45bc811b9e4d1e851806.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6689.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_3a40bcfadc834a11ab6d1e6a426e6593.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6690.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_9b175ce317004818b7f056f47abd7bb1.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6691-2.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_203c79e95714422dbc8315e186b811e4.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6691.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_7a0e8d9e1401409da20c461be114dc24.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6694.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_5931fb39169a4c82b4b1d4517efce58c.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6706.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_eaf5a00347364b909ef116a5a350ad08.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6708.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_32836305dc0e4b01980340c63f137bf7.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6713.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_3e51fdab1f9b4e2d9ea285d4529c1d54.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6716-2.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_0e19b8fe225c45a5865c28aef22218b4.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6716.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_8dd85b6b1d654562ae1d1f03a2b25d11.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6719.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_413c4d22ec314f32baff4e38544a6d70.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6722.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_7ac1b1df82544dcea4779d0225e1c937.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6730-2.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_86d3fc58fae540d9a199f5046405eb82.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6730.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_47a0e8d2332e4c138e71ad452628f882.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6731.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_6d421817e6ca4092ab3038006ad61090.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6739.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_8c45ceb129c8442fb2ebec2030efb323.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6740.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_44b00058d89743428e05de23c591fc66.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6770.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_30e4b803157f4550b190a2964e804adc.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6778.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_c375010ed97c406ebf3f60cc98846de0.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6815.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_135ee1a10577415fb562ab8788caf1d0.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6820.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_4305edac37bc4c2fb319f06965341383.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6821-2.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_7f780eeb06ad48048507a2421c79240f.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6821.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_0889c0aee530485682dd080c2c784bcd.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6829.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_ae41957ed424458c9fa9b9f5475e870e.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6830.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_51d665889c7343d39e5d55e735cbb9ba.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6843.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_3aee754cdf35449fbff76d6ba5411900.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6846.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_717361611d944666a9bab9f875dcce5e.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6847.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_14786311273e47848a60433900e60d1f.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6858.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_f578d5a6a8b440f48764e7ec0970e828.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6882.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_7bc67f3fed094353b2d9d09edac6c817.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6885.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_b303d50ea86344f0b68e8486f220ce86.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6886.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_a924eee45fc54305a2a54f82dfe77d27.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6920.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_517d627ce8cc446aa3e7d863e8e44b5b.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6924.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_344cf0ba25fa4ee9b699bc8688749598.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6929.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_a039517a497d4842bfa53d73d1f602db.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6944.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_45f2cf3db7bb4e59bda75efb1d0e2d97.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6947.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_d115ffb9fccd4321955fcf55501c8c87.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6956.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_e6d5848b756f4a9fa61d10aa2beab271.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6959.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_2705a3d0546b45ec8336a6960256512a.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6968.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_f62fc70fe67644f09a4be27488ccb61c.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6970.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_cd5a2e1aa2934d548a308ecf3969276e.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6976.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_96dd9acf28c245d083cfe4cde3605107.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-6978.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_0cab83c6e5f94914bb6c4cb227d34c87.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-7005-2.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_2ccde86151414188b63c8f67033da72d.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-7005.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_b9cda2b4e2bb430f8531b55bc900975f.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-7006.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_c85ef0a1ecac4769b47df8a37e65a42a.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-7010.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_8301c87141ad40bab923a8dbc743d534.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-7012.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_da33649d340540d692fe185ebe19fa09.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-7018.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_6da673627844447b8c2d666f084f7cd1.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-7019-2.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_f0f84d06b13e4868b7fc0eca34d50d7c.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-7019.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_2e5282f3325140bd84f4e1fac295fc07.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-7047.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_cf8098d84f82430a82bfb854fe95725f.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-7048.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_1e16159a033842cdab7058085cb93763.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-7088.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_1f072b1667bc4313b4960fbce371f8e4.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-7098-2.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_a92757f5270744d2be23a1890a81d9ef.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-7098.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_2fdb21ccbb7e412f9764bf81af467808.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-7099.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_906607e5cd324be8ab8fab25692dbdbb.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-7101.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_536721b0ad69497bac6e424d757428c5.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-7137.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_102ffe841cc7486095fb01408828e874.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-7139.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_f56918113bbc4673a41d68244773e4ab.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-7142-2.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_b89e135ecdad4d61b78c716df6a595a9.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-7142.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_c1070b9c7bec4a849ba3690fb7c940e1.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-7143.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_269602edfe804ffc90d15d083c7861b7.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-7144.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_92d34a8e619c4365aefad492ca5aa399.jpg_srz_p_700_700_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-7150.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_7293b0396e694671a25ae70a0af14ee4.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-7154.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_d60e571f8ae9432c8da3c2867f0a98c1.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-7157.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_cc18a60fc4d440a9b6bbf2240fa1cc46.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-7158.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_f99c39cc599c47679ddea475e345016f.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-7160.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_85783e431e314dd1b7a4651c11620ae5.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-7167.jpg"
+sleep 15;
+wget "http://static.wixstatic.com/media/f1b544_5de195e8ae5946a2891137ce16255c15.jpg_srz_p_960_640_85_22_0.50_1.20_0.00_jpg_srz" -O "PixieStudios-7173.jpg"

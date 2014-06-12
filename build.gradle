@@ -1,0 +1,47 @@
+project.ext.scalaVersion = "2.10"
+project.ext.akkaVersion = "2.3"
+project.ext.sprayVersion = "1.3"
+project.ext.camelVersion = "2.13"
+
+
+    apply plugin: "idea"
+apply plugin: "scala"
+apply plugin: "application"
+
+
+    group = "org.staale"
+    version = "1.0.0"
+
+    repositories {
+        mavenCentral()
+    }
+
+
+dependencies {
+    compile "org.scala-lang:scala-library:$scalaVersion.+"
+
+    ["actor", "persistence-experimental", "contrib", "camel"].each {
+        compile "com.typesafe.akka:akka-${it}_$scalaVersion:$akkaVersion.+"
+    }
+
+    ["client", "can", "routing"].each {
+        compile "io.spray:spray-$it:$sprayVersion.+"
+    }
+
+    ["core", "rss"].each {
+        compile "org.apache.camel:camel-$it:$camelVersion.+"
+    }
+
+    compile "io.spray:spray-json_$scalaVersion:1.2.+"
+
+    compile "org.joda:joda-convert:1.2"
+    compile "joda-time:joda-time:2.1"
+
+    compile 'ch.qos.logback:logback-classic:1.1.2'
+    compile 'org.slf4j:slf4j-api:1.7.7'
+
+    testCompile "org.scalatest:scalatest_$scalaVersion:2.1.+"
+    testCompile "com.typesafe.akka:akka-testkit_$scalaVersion:$akkaVersion.+"
+}
+
+
